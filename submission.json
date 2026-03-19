@@ -1,0 +1,7 @@
+{
+  "prompt": "PASTE YOUR EXACT FINAL IDEOGRAM PROMPT HERE — copy it verbatim from Ideogram after generating",
+  "model": "Ideogram 2.0",
+  "dataset_name": "National Family Health Survey Round 5 (NFHS-5), India, 2019-21",
+  "dataset_url": "https://rchiips.org/nfhs/NFHS-5_FCTS/India.pdf",
+  "insight": "35.5% of Indian children under 5 are stunted — permanently shorter and cognitively diminished from chronic malnutrition — and most will never fully recover."
+}
